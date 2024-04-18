@@ -55,9 +55,97 @@ def plot_instruments(counter, save_path):
     print(f"Image saved to {save_path}")
 
 
+def plot_instrument_distrubution(all_file_path, image_path):
+        # 对音轨进行统计
+        instrument_conut = Counter()
+        for file in tqdm(all_file_path, desc='Processing', unit='file'):
+            try:
+                # 用pretty_midi解析mid文件时是要"try"的，因为可能会有不符合规范的mid文件
+                midi_file = pretty_midi.PrettyMIDI(file)
+                # 获取mid文件中所有的乐器，是所有乐器组成的列表
+                instruments = midi_file.instruments
+
+                # 遍历每一个乐器
+                for item in instruments:
+                    # 先把lable设定成others，后面如果发现是想要的乐器类型的话，就改过来了
+                    instrument_lable = "others"
+                    # 判断是否是鼓，因为鼓的编号不在标准音色表里
+                    if item.is_drum:
+                        instrument_lable = "Drum"
+                    else:
+                        # 标准音色编号到乐器类别的映射
+                        instrument_map = {
+                            "vocal": [56, 57, 58, 59, 60, 61, 62, 63, 80, 81, 82, 83, 84, 85, 86, 87, 73, 71, 66, 65, 40],
+                            "piano": [0, 1, 2, 3, 4, 5, 6, 7],
+                            "clean_guitar": [26, 27, 24, 25, 31],
+                            "electric_guitar": [28, 29, 30],
+                            "bass": [32, 33, 34, 35, 36, 37, 38, 39]
+                            }
+                        # 如果编号在映射里，就更新lable
+                        for lable, numbers in instrument_map.items():
+                            if item.program in numbers:
+                                instrument_lable = lable
+
+                    instrument_conut[instrument_lable] += 1
+            except Exception as e:
+                print(f"Error processing item {item}: {e}")
+                continue
+        plot_instruments(instrument_conut, image_path)
+
+
+def count_instument_under_condition(all_file_path):
+    effecitve = 0
+    for file in tqdm(all_file_path, desc='Processing', unit='file'):
+        try:
+                # 用pretty_midi解析mid文件时是要"try"的，因为可能会有不符合规范的mid文件
+                midi_file = pretty_midi.PrettyMIDI(file)
+                # 获取mid文件中所有的乐器，是所有乐器组成的列表
+                instruments = midi_file.instruments
+
+                # 创建一个列表储存这首歌里的音轨
+                instrument_in_song = []
+
+                # 遍历每一个乐器
+                for item in instruments:
+                    # 先把lable设定成others，后面如果发现是想要的乐器类型的话，就改过来了
+                    instrument_lable = "others"
+                    # 判断是否是鼓，因为鼓的编号不在标准音色表里
+                    if item.is_drum:
+                        instrument_lable = "Drum"
+                        instrument_in_song.append(instrument_lable)
+                    else:
+                        # 标准音色编号到乐器类别的映射
+                        instrument_map = {
+                            "vocal": [56, 57, 58, 59, 60, 61, 62, 63, 80, 81, 82, 83, 84, 85, 86, 87, 73, 71, 66, 65, 40],
+                            "piano": [0, 1, 2, 3, 4, 5, 6, 7],
+                            "clean_guitar": [26, 27, 24, 25, 31],
+                            "electric_guitar": [28, 29, 30],
+                            "bass": [32, 33, 34, 35, 36, 37, 38, 39]
+                            }
+                        # 如果编号在映射里，就更新lable
+                        for lable, numbers in instrument_map.items():
+                            if item.program in numbers:
+                                instrument_lable = lable
+                                instrument_in_song.append(instrument_lable)
+                # 输出一下音乐中的乐器组成看看
+                instrument_in_song = list(set(instrument_in_song))  # 无重复元素
+                instrument_in_song.sort()
+
+                ###############################条件在这里###############################
+                if all(item in instrument_in_song for item in ['Drum', 'bass']) and (any(item in instrument_in_song for item in ['clean_guitar', 'electric_guitar'])):
+                    effecitve += 1
+                    # print(f"{instrument_in_song}")
+    
+        except Exception as e:
+            print(f"Error processing item {item}: {e}")
+            continue
+
+    return effecitve
+
+
 if __name__ == "__main__":
     # 处理的文件夹
-    directory = "dataset_mid/Mysongbook"
+    directory = "dataset_mid/Mysongbook/Pop_Rock"
 
     # 获取所有的mid文件列表
     all_file_path = []
@@ -68,41 +156,12 @@ if __name__ == "__main__":
                 all_file_path.append(file_path)
 
     # 数据集再小一点，只截取[0:500]
-    all_file_path = all_file_path[0:500]
+    all_file_path = all_file_path[0:-1]
 
-    # 对文件列表中的参数进行统计
-    instrument_conut = Counter()
-    for file in tqdm(all_file_path, desc='Processing', unit='file'):
-        try:
-            # 用pretty_midi解析mid文件时是要"try"的，因为可能会有不符合规范的mid文件
-            midi_file = pretty_midi.PrettyMIDI(file)
-            # 获取mid文件中所有的乐器，是所有乐器组成的列表
-            instruments = midi_file.instruments
+    # 统计乐器分布图
+    # plot_instrument_distrubution(all_file_path, "未命名.jpg")
 
-            # 遍历每一个乐器
-            for item in instruments:
-                # 先把lable设定成others，后面如果发现是想要的乐器类型的话，就改过来了
-                instrument_lable = "others"
-                # 判断是否是鼓，因为鼓的编号不在标准音色表里
-                if item.is_drum:
-                    instrument_lable = "Drum"
-                else:
-                    # 标准音色编号到乐器类别的映射
-                    instrument_map = {
-                        "vocal": [56, 57, 58, 59, 60, 61, 62, 63, 80, 81, 82, 83, 84, 85, 86, 87, 73, 71, 66, 65, 40],
-                        "piano": [0, 1, 2, 3, 4, 5, 6, 7],
-                        "clean_guitar": [26, 27, 24, 25, 31],
-                        "electric_guitar": [28, 29, 30],
-                        "bass": [32, 33, 34, 35, 36, 37, 38, 39]
-                        }
-                    # 如果编号在映射里，就更新lable
-                    for lable, numbers in instrument_map.items():
-                        if item.program in numbers:
-                            instrument_lable = lable
+    # 统计符合条件的文件数量
+    amount = count_instument_under_condition(all_file_path)
+    print(f"File amount under the condition:{amount}")
 
-                instrument_conut[instrument_lable] += 1
-        except Exception as e:
-            print(f"Error processing item {item}: {e}")
-            continue
-
-    plot_instruments(instrument_conut, "未命名.jpg")
