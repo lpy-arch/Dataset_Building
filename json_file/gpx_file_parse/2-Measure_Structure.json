@@ -1,0 +1,1885 @@
+{
+    "track": {
+        "song": {
+            "versionTuple": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "clipboard": null,
+            "title": "Endless Rain",
+            "subtitle": "",
+            "artist": "X Japan",
+            "album": "",
+            "words": "",
+            "music": "",
+            "copyright": "",
+            "tab": "Syw Rose",
+            "instructions": "",
+            "notice": [],
+            "lyrics": {
+                "trackChoice": "Maximum depth reached",
+                "lines": "Maximum depth reached"
+            },
+            "pageSetup": {
+                "pageSize": "Maximum depth reached",
+                "pageMargin": "Maximum depth reached",
+                "scoreSizeProportion": "Maximum depth reached",
+                "headerAndFooter": "Maximum depth reached",
+                "title": "Maximum depth reached",
+                "subtitle": "Maximum depth reached",
+                "artist": "Maximum depth reached",
+                "album": "Maximum depth reached",
+                "words": "Maximum depth reached",
+                "music": "Maximum depth reached",
+                "wordsAndMusic": "Maximum depth reached",
+                "copyright": "Maximum depth reached",
+                "pageNumber": "Maximum depth reached"
+            },
+            "tempoName": "Moderate",
+            "tempo": 72,
+            "hideTempo": false,
+            "key": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "measureHeaders": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "tracks": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "masterEffect": {
+                "volume": "Maximum depth reached",
+                "reverb": "Maximum depth reached",
+                "equalizer": "Maximum depth reached"
+            },
+            "_currentRepeatGroup": {
+                "measureHeaders": "Maximum depth reached",
+                "closings": "Maximum depth reached",
+                "openings": "Maximum depth reached",
+                "isClosed": "Maximum depth reached"
+            },
+            "version": "FICHIER GUITAR PRO v4.06"
+        },
+        "number": 6,
+        "fretCount": 24,
+        "offset": 0,
+        "isPercussionTrack": false,
+        "is12StringedGuitarTrack": false,
+        "isBanjoTrack": false,
+        "isVisible": true,
+        "isSolo": false,
+        "isMute": false,
+        "indicateTuning": false,
+        "name": "Keyboard (Right)",
+        "measures": [
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            }
+        ],
+        "strings": [
+            {
+                "number": "Maximum depth reached",
+                "value": "Maximum depth reached"
+            },
+            {
+                "number": "Maximum depth reached",
+                "value": "Maximum depth reached"
+            },
+            {
+                "number": "Maximum depth reached",
+                "value": "Maximum depth reached"
+            },
+            {
+                "number": "Maximum depth reached",
+                "value": "Maximum depth reached"
+            },
+            {
+                "number": "Maximum depth reached",
+                "value": "Maximum depth reached"
+            },
+            {
+                "number": "Maximum depth reached",
+                "value": "Maximum depth reached"
+            }
+        ],
+        "port": 1,
+        "channel": {
+            "channel": 8,
+            "effectChannel": 10,
+            "instrument": 0,
+            "volume": 120,
+            "balance": 64,
+            "chorus": 0,
+            "reverb": 0,
+            "phaser": 0,
+            "tremolo": 0,
+            "bank": 0
+        },
+        "color": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+        },
+        "settings": {
+            "tablature": true,
+            "notation": true,
+            "diagramsAreBelow": false,
+            "showRhythm": false,
+            "forceHorizontal": false,
+            "forceChannels": false,
+            "diagramList": true,
+            "diagramsInScore": false,
+            "autoLetRing": false,
+            "autoBrush": false,
+            "extendRhythmic": false
+        },
+        "useRSE": false,
+        "rse": {
+            "instrument": {
+                "instrument": "Maximum depth reached",
+                "unknown": "Maximum depth reached",
+                "soundBank": "Maximum depth reached",
+                "effectNumber": "Maximum depth reached",
+                "effectCategory": "Maximum depth reached",
+                "effect": "Maximum depth reached"
+            },
+            "equalizer": {
+                "knobs": "Maximum depth reached",
+                "gain": "Maximum depth reached"
+            },
+            "humanize": 0,
+            "autoAccentuation": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            }
+        }
+    },
+    "header": {
+        "number": 7,
+        "start": 24000,
+        "hasDoubleBar": false,
+        "keySignature": {
+            "_value_": [
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "_name_": "CMajor",
+            "__objclass__": {
+                "_generate_next_value_": "Maximum depth reached",
+                "__module__": "Maximum depth reached",
+                "_new_member_": "Maximum depth reached",
+                "_use_args_": "Maximum depth reached",
+                "_member_names_": "Maximum depth reached",
+                "_member_map_": "Maximum depth reached",
+                "_value2member_map_": "Maximum depth reached",
+                "_unhashable_values_": "Maximum depth reached",
+                "_member_type_": "Maximum depth reached",
+                "_value_repr_": "Maximum depth reached",
+                "__doc__": "Maximum depth reached",
+                "FMajorFlat": "Maximum depth reached",
+                "CMajorFlat": "Maximum depth reached",
+                "GMajorFlat": "Maximum depth reached",
+                "DMajorFlat": "Maximum depth reached",
+                "AMajorFlat": "Maximum depth reached",
+                "EMajorFlat": "Maximum depth reached",
+                "BMajorFlat": "Maximum depth reached",
+                "FMajor": "Maximum depth reached",
+                "CMajor": "Maximum depth reached",
+                "GMajor": "Maximum depth reached",
+                "DMajor": "Maximum depth reached",
+                "AMajor": "Maximum depth reached",
+                "EMajor": "Maximum depth reached",
+                "BMajor": "Maximum depth reached",
+                "FMajorSharp": "Maximum depth reached",
+                "CMajorSharp": "Maximum depth reached",
+                "GMajorSharp": "Maximum depth reached",
+                "DMinorFlat": "Maximum depth reached",
+                "AMinorFlat": "Maximum depth reached",
+                "EMinorFlat": "Maximum depth reached",
+                "BMinorFlat": "Maximum depth reached",
+                "FMinor": "Maximum depth reached",
+                "CMinor": "Maximum depth reached",
+                "GMinor": "Maximum depth reached",
+                "DMinor": "Maximum depth reached",
+                "AMinor": "Maximum depth reached",
+                "EMinor": "Maximum depth reached",
+                "BMinor": "Maximum depth reached",
+                "FMinorSharp": "Maximum depth reached",
+                "CMinorSharp": "Maximum depth reached",
+                "GMinorSharp": "Maximum depth reached",
+                "DMinorSharp": "Maximum depth reached",
+                "AMinorSharp": "Maximum depth reached",
+                "EMinorSharp": "Maximum depth reached",
+                "__new__": "Maximum depth reached"
+            },
+            "_sort_order_": 8
+        },
+        "timeSignature": {
+            "numerator": 4,
+            "denominator": {
+                "value": "Maximum depth reached",
+                "isDotted": "Maximum depth reached",
+                "tuplet": "Maximum depth reached"
+            },
+            "beams": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ]
+        },
+        "marker": null,
+        "isRepeatOpen": false,
+        "repeatAlternative": 0,
+        "repeatClose": -1,
+        "tripletFeel": {
+            "_value_": 0,
+            "_name_": "none",
+            "__objclass__": {
+                "_generate_next_value_": "Maximum depth reached",
+                "__module__": "Maximum depth reached",
+                "__doc__": "Maximum depth reached",
+                "_new_member_": "Maximum depth reached",
+                "_use_args_": "Maximum depth reached",
+                "_member_names_": "Maximum depth reached",
+                "_member_map_": "Maximum depth reached",
+                "_value2member_map_": "Maximum depth reached",
+                "_unhashable_values_": "Maximum depth reached",
+                "_member_type_": "Maximum depth reached",
+                "_value_repr_": "Maximum depth reached",
+                "none": "Maximum depth reached",
+                "eighth": "Maximum depth reached",
+                "sixteenth": "Maximum depth reached",
+                "__new__": "Maximum depth reached"
+            },
+            "_sort_order_": 0
+        },
+        "direction": null,
+        "fromDirection": null,
+        "song": {
+            "versionTuple": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "clipboard": null,
+            "title": "Endless Rain",
+            "subtitle": "",
+            "artist": "X Japan",
+            "album": "",
+            "words": "",
+            "music": "",
+            "copyright": "",
+            "tab": "Syw Rose",
+            "instructions": "",
+            "notice": [],
+            "lyrics": {
+                "trackChoice": "Maximum depth reached",
+                "lines": "Maximum depth reached"
+            },
+            "pageSetup": {
+                "pageSize": "Maximum depth reached",
+                "pageMargin": "Maximum depth reached",
+                "scoreSizeProportion": "Maximum depth reached",
+                "headerAndFooter": "Maximum depth reached",
+                "title": "Maximum depth reached",
+                "subtitle": "Maximum depth reached",
+                "artist": "Maximum depth reached",
+                "album": "Maximum depth reached",
+                "words": "Maximum depth reached",
+                "music": "Maximum depth reached",
+                "wordsAndMusic": "Maximum depth reached",
+                "copyright": "Maximum depth reached",
+                "pageNumber": "Maximum depth reached"
+            },
+            "tempoName": "Moderate",
+            "tempo": 72,
+            "hideTempo": false,
+            "key": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "measureHeaders": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "tracks": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "masterEffect": {
+                "volume": "Maximum depth reached",
+                "reverb": "Maximum depth reached",
+                "equalizer": "Maximum depth reached"
+            },
+            "_currentRepeatGroup": {
+                "measureHeaders": "Maximum depth reached",
+                "closings": "Maximum depth reached",
+                "openings": "Maximum depth reached",
+                "isClosed": "Maximum depth reached"
+            },
+            "version": "FICHIER GUITAR PRO v4.06"
+        },
+        "repeatGroup": {
+            "measureHeaders": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "closings": [],
+            "openings": [
+                "Maximum depth reached"
+            ],
+            "isClosed": false
+        }
+    },
+    "clef": {
+        "_value_": 0,
+        "_name_": "treble",
+        "__objclass__": {
+            "_generate_next_value_": {
+                "__module__": "Maximum depth reached",
+                "__name__": "Maximum depth reached",
+                "__qualname__": "Maximum depth reached",
+                "__doc__": "Maximum depth reached",
+                "__annotations__": "Maximum depth reached"
+            },
+            "__module__": "guitarpro.models",
+            "__doc__": "An enumeration of available clefs.",
+            "_new_member_": {},
+            "_use_args_": false,
+            "_member_names_": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "_member_map_": {
+                "treble": "Maximum depth reached",
+                "bass": "Maximum depth reached",
+                "tenor": "Maximum depth reached",
+                "alto": "Maximum depth reached"
+            },
+            "_value2member_map_": {
+                "0": "Maximum depth reached",
+                "1": "Maximum depth reached",
+                "2": "Maximum depth reached",
+                "3": "Maximum depth reached"
+            },
+            "_unhashable_values_": [],
+            "_member_type_": {
+                "__new__": "Maximum depth reached",
+                "__repr__": "Maximum depth reached",
+                "__hash__": "Maximum depth reached",
+                "__str__": "Maximum depth reached",
+                "__getattribute__": "Maximum depth reached",
+                "__setattr__": "Maximum depth reached",
+                "__delattr__": "Maximum depth reached",
+                "__lt__": "Maximum depth reached",
+                "__le__": "Maximum depth reached",
+                "__eq__": "Maximum depth reached",
+                "__ne__": "Maximum depth reached",
+                "__gt__": "Maximum depth reached",
+                "__ge__": "Maximum depth reached",
+                "__init__": "Maximum depth reached",
+                "__reduce_ex__": "Maximum depth reached",
+                "__reduce__": "Maximum depth reached",
+                "__getstate__": "Maximum depth reached",
+                "__subclasshook__": "Maximum depth reached",
+                "__init_subclass__": "Maximum depth reached",
+                "__format__": "Maximum depth reached",
+                "__sizeof__": "Maximum depth reached",
+                "__dir__": "Maximum depth reached",
+                "__class__": "Maximum depth reached",
+                "__doc__": "Maximum depth reached"
+            },
+            "_value_repr_": null,
+            "treble": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "bass": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "tenor": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "alto": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "__new__": {}
+        },
+        "_sort_order_": 0
+    },
+    "voices": [
+        {
+            "measure": {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            "beats": [
+                "Maximum depth reached"
+            ],
+            "direction": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            }
+        },
+        {
+            "measure": {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            "beats": [],
+            "direction": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            }
+        }
+    ],
+    "lineBreak": {
+        "_value_": 0,
+        "_name_": "none",
+        "__objclass__": {
+            "_generate_next_value_": {
+                "__module__": "Maximum depth reached",
+                "__name__": "Maximum depth reached",
+                "__qualname__": "Maximum depth reached",
+                "__doc__": "Maximum depth reached",
+                "__annotations__": "Maximum depth reached"
+            },
+            "__module__": "guitarpro.models",
+            "__doc__": "A line break directive.",
+            "_new_member_": {},
+            "_use_args_": false,
+            "_member_names_": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "_member_map_": {
+                "none": "Maximum depth reached",
+                "break_": "Maximum depth reached",
+                "protect": "Maximum depth reached"
+            },
+            "_value2member_map_": {
+                "0": "Maximum depth reached",
+                "1": "Maximum depth reached",
+                "2": "Maximum depth reached"
+            },
+            "_unhashable_values_": [],
+            "_member_type_": {
+                "__new__": "Maximum depth reached",
+                "__repr__": "Maximum depth reached",
+                "__hash__": "Maximum depth reached",
+                "__str__": "Maximum depth reached",
+                "__getattribute__": "Maximum depth reached",
+                "__setattr__": "Maximum depth reached",
+                "__delattr__": "Maximum depth reached",
+                "__lt__": "Maximum depth reached",
+                "__le__": "Maximum depth reached",
+                "__eq__": "Maximum depth reached",
+                "__ne__": "Maximum depth reached",
+                "__gt__": "Maximum depth reached",
+                "__ge__": "Maximum depth reached",
+                "__init__": "Maximum depth reached",
+                "__reduce_ex__": "Maximum depth reached",
+                "__reduce__": "Maximum depth reached",
+                "__getstate__": "Maximum depth reached",
+                "__subclasshook__": "Maximum depth reached",
+                "__init_subclass__": "Maximum depth reached",
+                "__format__": "Maximum depth reached",
+                "__sizeof__": "Maximum depth reached",
+                "__dir__": "Maximum depth reached",
+                "__class__": "Maximum depth reached",
+                "__doc__": "Maximum depth reached"
+            },
+            "_value_repr_": null,
+            "none": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "break_": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "protect": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "__new__": {}
+        },
+        "_sort_order_": 0
+    }
+}

@@ -1,0 +1,293 @@
+{
+    "beat": {
+        "voice": {
+            "measure": {
+                "track": "Maximum depth reached",
+                "header": "Maximum depth reached",
+                "clef": "Maximum depth reached",
+                "voices": "Maximum depth reached",
+                "lineBreak": "Maximum depth reached"
+            },
+            "beats": [
+                "Maximum depth reached"
+            ],
+            "direction": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            }
+        },
+        "notes": [
+            {
+                "beat": "Maximum depth reached",
+                "value": "Maximum depth reached",
+                "velocity": "Maximum depth reached",
+                "string": "Maximum depth reached",
+                "effect": "Maximum depth reached",
+                "durationPercent": "Maximum depth reached",
+                "swapAccidentals": "Maximum depth reached",
+                "type": "Maximum depth reached"
+            }
+        ],
+        "duration": {
+            "value": 1,
+            "isDotted": false,
+            "tuplet": {
+                "enters": "Maximum depth reached",
+                "times": "Maximum depth reached"
+            }
+        },
+        "text": null,
+        "start": 24000,
+        "effect": {
+            "stroke": {
+                "direction": "Maximum depth reached",
+                "value": "Maximum depth reached"
+            },
+            "hasRasgueado": false,
+            "pickStroke": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "chord": null,
+            "fadeIn": false,
+            "tremoloBar": null,
+            "mixTableChange": null,
+            "slapEffect": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "vibrato": false
+        },
+        "octave": {
+            "_value_": 0,
+            "_name_": "none",
+            "__objclass__": {
+                "_generate_next_value_": "Maximum depth reached",
+                "__module__": "Maximum depth reached",
+                "__doc__": "Maximum depth reached",
+                "_new_member_": "Maximum depth reached",
+                "_use_args_": "Maximum depth reached",
+                "_member_names_": "Maximum depth reached",
+                "_member_map_": "Maximum depth reached",
+                "_value2member_map_": "Maximum depth reached",
+                "_unhashable_values_": "Maximum depth reached",
+                "_member_type_": "Maximum depth reached",
+                "_value_repr_": "Maximum depth reached",
+                "none": "Maximum depth reached",
+                "ottava": "Maximum depth reached",
+                "quindicesima": "Maximum depth reached",
+                "ottavaBassa": "Maximum depth reached",
+                "quindicesimaBassa": "Maximum depth reached",
+                "__new__": "Maximum depth reached"
+            },
+            "_sort_order_": 0
+        },
+        "display": {
+            "breakBeam": false,
+            "forceBeam": false,
+            "beamDirection": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "tupletBracket": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "breakSecondary": 0,
+            "breakSecondaryTuplet": false,
+            "forceBracket": false
+        },
+        "status": {
+            "_value_": 1,
+            "_name_": "normal",
+            "__objclass__": {
+                "_generate_next_value_": "Maximum depth reached",
+                "__module__": "Maximum depth reached",
+                "_new_member_": "Maximum depth reached",
+                "_use_args_": "Maximum depth reached",
+                "_member_names_": "Maximum depth reached",
+                "_member_map_": "Maximum depth reached",
+                "_value2member_map_": "Maximum depth reached",
+                "_unhashable_values_": "Maximum depth reached",
+                "_member_type_": "Maximum depth reached",
+                "_value_repr_": "Maximum depth reached",
+                "__doc__": "Maximum depth reached",
+                "empty": "Maximum depth reached",
+                "normal": "Maximum depth reached",
+                "rest": "Maximum depth reached",
+                "__new__": "Maximum depth reached"
+            },
+            "_sort_order_": 1
+        }
+    },
+    "value": 2,
+    "velocity": 95,
+    "string": 5,
+    "effect": {
+        "accentuatedNote": false,
+        "bend": null,
+        "ghostNote": false,
+        "grace": null,
+        "hammer": false,
+        "harmonic": null,
+        "heavyAccentuatedNote": false,
+        "leftHandFinger": {
+            "_value_": -1,
+            "_name_": "open",
+            "__objclass__": {
+                "_generate_next_value_": "Maximum depth reached",
+                "__module__": "Maximum depth reached",
+                "__doc__": "Maximum depth reached",
+                "_new_member_": "Maximum depth reached",
+                "_use_args_": "Maximum depth reached",
+                "_member_names_": "Maximum depth reached",
+                "_member_map_": "Maximum depth reached",
+                "_value2member_map_": "Maximum depth reached",
+                "_unhashable_values_": "Maximum depth reached",
+                "_member_type_": "Maximum depth reached",
+                "_value_repr_": "Maximum depth reached",
+                "open": "Maximum depth reached",
+                "thumb": "Maximum depth reached",
+                "index": "Maximum depth reached",
+                "middle": "Maximum depth reached",
+                "annular": "Maximum depth reached",
+                "little": "Maximum depth reached",
+                "__new__": "Maximum depth reached"
+            },
+            "_sort_order_": 0
+        },
+        "letRing": false,
+        "palmMute": false,
+        "rightHandFinger": {
+            "_value_": -1,
+            "_name_": "open",
+            "__objclass__": {
+                "_generate_next_value_": "Maximum depth reached",
+                "__module__": "Maximum depth reached",
+                "__doc__": "Maximum depth reached",
+                "_new_member_": "Maximum depth reached",
+                "_use_args_": "Maximum depth reached",
+                "_member_names_": "Maximum depth reached",
+                "_member_map_": "Maximum depth reached",
+                "_value2member_map_": "Maximum depth reached",
+                "_unhashable_values_": "Maximum depth reached",
+                "_member_type_": "Maximum depth reached",
+                "_value_repr_": "Maximum depth reached",
+                "open": "Maximum depth reached",
+                "thumb": "Maximum depth reached",
+                "index": "Maximum depth reached",
+                "middle": "Maximum depth reached",
+                "annular": "Maximum depth reached",
+                "little": "Maximum depth reached",
+                "__new__": "Maximum depth reached"
+            },
+            "_sort_order_": 0
+        },
+        "slides": [],
+        "staccato": false,
+        "tremoloPicking": null,
+        "trill": null,
+        "vibrato": false
+    },
+    "durationPercent": 1.0,
+    "swapAccidentals": false,
+    "type": {
+        "_value_": 1,
+        "_name_": "normal",
+        "__objclass__": {
+            "_generate_next_value_": {
+                "__module__": "Maximum depth reached",
+                "__name__": "Maximum depth reached",
+                "__qualname__": "Maximum depth reached",
+                "__doc__": "Maximum depth reached",
+                "__annotations__": "Maximum depth reached"
+            },
+            "__module__": "guitarpro.models",
+            "_new_member_": {},
+            "_use_args_": false,
+            "_member_names_": [
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached",
+                "Maximum depth reached"
+            ],
+            "_member_map_": {
+                "rest": "Maximum depth reached",
+                "normal": "Maximum depth reached",
+                "tie": "Maximum depth reached",
+                "dead": "Maximum depth reached"
+            },
+            "_value2member_map_": {
+                "0": "Maximum depth reached",
+                "1": "Maximum depth reached",
+                "2": "Maximum depth reached",
+                "3": "Maximum depth reached"
+            },
+            "_unhashable_values_": [],
+            "_member_type_": {
+                "__new__": "Maximum depth reached",
+                "__repr__": "Maximum depth reached",
+                "__hash__": "Maximum depth reached",
+                "__str__": "Maximum depth reached",
+                "__getattribute__": "Maximum depth reached",
+                "__setattr__": "Maximum depth reached",
+                "__delattr__": "Maximum depth reached",
+                "__lt__": "Maximum depth reached",
+                "__le__": "Maximum depth reached",
+                "__eq__": "Maximum depth reached",
+                "__ne__": "Maximum depth reached",
+                "__gt__": "Maximum depth reached",
+                "__ge__": "Maximum depth reached",
+                "__init__": "Maximum depth reached",
+                "__reduce_ex__": "Maximum depth reached",
+                "__reduce__": "Maximum depth reached",
+                "__getstate__": "Maximum depth reached",
+                "__subclasshook__": "Maximum depth reached",
+                "__init_subclass__": "Maximum depth reached",
+                "__format__": "Maximum depth reached",
+                "__sizeof__": "Maximum depth reached",
+                "__dir__": "Maximum depth reached",
+                "__class__": "Maximum depth reached",
+                "__doc__": "Maximum depth reached"
+            },
+            "_value_repr_": null,
+            "__doc__": null,
+            "rest": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "normal": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "tie": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "dead": {
+                "_value_": "Maximum depth reached",
+                "_name_": "Maximum depth reached",
+                "__objclass__": "Maximum depth reached",
+                "_sort_order_": "Maximum depth reached"
+            },
+            "__new__": {}
+        },
+        "_sort_order_": 1
+    }
+}

@@ -1,0 +1,6 @@
+rarfile
+matplotlib
+matplotlib
+pyguitarpro
+music21
+tqdm
